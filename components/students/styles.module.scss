@@ -1,0 +1,16 @@
+div.students {
+  div {
+    padding: 2px 16px;
+    a {
+      color: #333333;
+      padding: 2px 16px;
+      display: block;
+      border-left: 8px solid white;
+      background-color: white;
+
+      :hover {
+        border-left: 8px solid #4979FF;
+      }
+    }
+  }
+}

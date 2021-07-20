@@ -1,0 +1,17 @@
+nav.navbar {
+  padding: 16px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+  border-bottom: 1px solid #ddd;
+
+  > {
+    div {
+      margin-right: auto;
+    }
+
+    a {
+      margin-left: 12px;
+    }
+  }
+}
